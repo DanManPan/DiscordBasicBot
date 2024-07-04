@@ -11,7 +11,7 @@ from dotenv import load_dotenv # type: ignore
 load_dotenv()
 
 # GRAB THE API TOKEN FROM THE .ENV FILE.
-DISCORD_TOKEN = os.getenv("MTIyNTk0OTAyNDYwODE5NDYwMg.GkbG8w.JimedB2_KND9Ib5GWSJwlzGrsT2JAcXBgcZoWY")
+DISCORD_TOKEN = os.getenv("token here")
 
 # GETS THE CLIENT OBJECT FROM DISCORD.PY. CLIENT IS SYNONYMOUS WITH BOT.
 bot = discord.Client()

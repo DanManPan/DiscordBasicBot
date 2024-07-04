@@ -87,4 +87,4 @@ async def on_message(message):
 
 
 
-client.run ('MTIyNTk0OTAyNDYwODE5NDYwMg.GkbG8w.JimedB2_KND9Ib5GWSJwlzGrsT2JAcXBgcZoWY')
+client.run ('SECRET GOES HERE')
